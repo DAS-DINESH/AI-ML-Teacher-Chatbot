@@ -21,7 +21,8 @@
 
 ## 📦 Installation
 
-1. **Clone the repository:**
+1. **Clone the repository and run using this commands:**
 ```bash
 git clone https://github.com/yourusername/AI-ML-Teacher.git
-cd AI-ML-Teacher
+pip install -r requirements-txt.txt
+streamlit run app.py
